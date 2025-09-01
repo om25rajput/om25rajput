@@ -80,6 +80,18 @@ A cost-effective, multi-layered AI chatbot that delivers accurate customer suppo
 - API cost optimization techniques
 - Modular and scalable design
 
+### [Earthquake-Visualizer](https://github.com/om25rajput/Earthquake-Visualizer)
+Demo[Link](https://earthquake-visualizer-beta.vercel.app/)
+Earthquake Visualizer | Tech Stack: React.js, Leaflet.js, USGS Earthquake API, Tailwind CSS
+An interactive web application designed for geography students and researchers to explore real-time seismic activity worldwide. Provides live earthquake data visualization with smart filtering and an intuitive user interface.
+
+Key Features:
+🌍 Real-time Earthquake Data: Fetches live seismic data from the USGS Earthquake API.
+🗺️ Interactive Map: Uses Leaflet.js to display earthquakes with location-specific markers.
+🔍 Smart Filtering: Filter earthquakes by magnitude, depth, and date range.
+📌 Detailed Information Popups: Clickable markers show event details like magnitude, coordinates, and time.
+📊 Analytics Dashboard: View trends and earthquake distribution statistics.
+
 ### 💰 [CryptoPro - Cryptocurrency Tracking App](https://github.com/om25rajput/cryptopro)
 **Live Demo:** (https://cryptopro-by-sd.netlify.app/) | **Tech Stack:** React.js, JavaScript, REST APIs, CSS
 
