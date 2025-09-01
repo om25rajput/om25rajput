@@ -3,12 +3,12 @@
 ## 🚀 About Me
 I'm a passionate Electronics and Telecommunication Engineering student with a strong focus on full-stack development and AI integration. I love building scalable applications and exploring cutting-edge technologies to solve real-world problems.
 
-- 🔭 I'm currently working on **CryptoPro** - A comprehensive cryptocurrency tracking platform
+- 🔭 I'm currently working on **AI Customer Support Bot** - A comprehensive cryptocurrency tracking platform
 - 🌱 I'm currently learning **Advanced AI/ML concepts and Cloud Architecture**
-- 🎓 Pursuing B.E. in Electronics & Telecommunication from **IET DAVV, Indore**
+- 🎓 B.E. in Electronics & Telecommunication from **IET DAVV, Indore**
 - 👯 I'm looking to collaborate on **AI-powered applications and full-stack projects**
 - 💬 Ask me about **React.js, Node.js, AI Integration, and IoT systems**
-- 📫 How to reach me: **omrajput642@gmail.com**
+- 📫 How to reach me: **hellom2503@gmail.com**
 - ⚡ Fun fact: **Co-founded the Robotics Club at my institute and ranked Top 20 in Eyantra National Competition!**
 
 ## 🛠️ Tech Stack
@@ -112,7 +112,7 @@ A real-time cryptocurrency tracking application with interactive charts, price a
 | Project | Description | Tech Stack | Live Demo | Repository |
 |---------|-------------|------------|-----------|------------|
 | **[Zeecare Hospital System](https://zeecare-demo.vercel.app)** | Complete hospital management solution | React, Spring Boot, MongoDB | [View Live](https://zeecare-demo.vercel.app) | [GitHub](https://github.com/om25rajput/zeecare) |
-| **[AI Customer Support Bot](https://ai-support-bot.vercel.app)** | Multi-layered AI chatbot for customer support | TypeScript, React, LLM, RAG | [View Live](https://ai-support-bot.vercel.app) | [GitHub](https://github.com/om25rajput/ai-chatbot) |
+| **[AI Customer Support Bot](https://ai-support-bot.vercel.app)** | Multi-layered AI chatbot for customer support | TypeScript, React, LLM, RAG | [View Live](https://ai-support-bot.vercel.app) | [GitHub](https://github.com/om25rajput/ai-Chat-Support-Bot) |
 | **[CryptoPro Tracker](https://cryptopro-tracker.netlify.app)** | Real-time cryptocurrency tracking app | React.js, REST APIs, CSS | [View Live](https://cryptopro-tracker.netlify.app) | [GitHub](https://github.com/om25rajput/cryptopro) |
 | **[Portfolio Website](https://om-rajput-portfolio.vercel.app)** | Personal portfolio showcasing my work | React.js, Tailwind CSS | [View Live](https://om-rajput-portfolio.vercel.app) | [GitHub](https://github.com/om25rajput/portfolio) |
 
