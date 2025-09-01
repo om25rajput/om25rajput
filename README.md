@@ -88,9 +88,33 @@ A real-time cryptocurrency tracking application with interactive charts, price a
 **Key Features:**
 - Real-time cryptocurrency price tracking
 - Interactive charts and data visualization
-- Price alerts and notifications
+- Price alerts and notifications90
 - Responsive design for all devices
 - Integration with multiple crypto APIs
+
+### 🔧 [VS Code AI Commenter - Multi-Language](https://github.com/om25rajput/vscode-ai-commenter-multilang)
+
+VS Code Extension | Tech Stack: TypeScript, Node.js, Google Gemini AI, VS Code API
+An intelligent VS Code extension that generates context-aware code comments using Google Gemini AI for multiple programming languages. Features one-click commenting with professional documentation standards.
+Key Features:
+
+- Multi-language support (Python, JavaScript, TypeScript, Java, C++)
+- Google Gemini 2.0 AI integration for intelligent commenting
+- Context-aware comment generation with proper documentation format
+- Keyboard shortcuts and real-time processing
+- Customizable comment styles and model selection
+
+### 🎯 [Job Tracking Web Extension](https://github.com/om25rajput/Job-Tracking-web-Extension)
+
+Chrome Extension | Tech Stack: JavaScript, HTML5, CSS3, Chrome APIs, Local Storage
+A comprehensive Chrome extension for job seekers to track applications, manage resumes, and monitor job search progress. Features auto-fill detection and application timeline management.
+Key Features:
+
+- Complete job application lifecycle management
+- Resume and cover letter storage with file upload
+- Status tracking (Applied, Interview, Offer, Rejected)
+- Auto-fill job information from job posting pages
+- Statistics dashboard with export/import functionality
 
 ## 📊 GitHub Stats
 
