@@ -82,7 +82,9 @@ A cost-effective, multi-layered AI chatbot that delivers accurate customer suppo
 
 ### [Earthquake-Visualizer](https://github.com/om25rajput/Earthquake-Visualizer)
 Demo[Link](https://earthquake-visualizer-beta.vercel.app/)
+
 Earthquake Visualizer | Tech Stack: React.js, Leaflet.js, USGS Earthquake API, Tailwind CSS
+
 An interactive web application designed for geography students and researchers to explore real-time seismic activity worldwide. Provides live earthquake data visualization with smart filtering and an intuitive user interface.
 
 Key Features:
