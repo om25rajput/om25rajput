@@ -57,7 +57,7 @@ I'm a passionate Electronics and Telecommunication Engineering student with a st
 ## 🌟 Featured Projects
 
 ### 🏥 [Zeecare - Hospital Management System](https://github.com/om25rajput/zeecare)
-**Live Demo:** [zeecare-demo.vercel.app](https://zeecare-demo.vercel.app) | **Tech Stack:** React.js, Spring Boot, MongoDB, Tailwind CSS
+**Live Demo:** [zeecare-demo.vercel.app]([https://zeecare-demo.vercel.app](https://linktr.ee/OM_RAJPUT_)) | **Tech Stack:** React.js, Spring Boot, MongoDB, Tailwind CSS
 
 A comprehensive hospital management solution featuring patient registration, appointment scheduling, and admin dashboard. Built with clean architecture and deployed using CI/CD principles with GitHub Actions.
 
@@ -81,7 +81,7 @@ A cost-effective, multi-layered AI chatbot that delivers accurate customer suppo
 - Modular and scalable design
 
 ### 💰 [CryptoPro - Cryptocurrency Tracking App](https://github.com/om25rajput/cryptopro)
-**Live Demo:** [cryptopro-tracker.netlify.app](https://cryptopro-tracker.netlify.app) | **Tech Stack:** React.js, JavaScript, REST APIs, CSS
+**Live Demo:** [cryptopro-tracker.netlify.app]([https://cryptopro-tracker.netlify.app](https://cryptopro-by-sd.netlify.app/)) | **Tech Stack:** React.js, JavaScript, REST APIs, CSS
 
 A real-time cryptocurrency tracking application with interactive charts, price alerts, and comprehensive market data visualization.
 
