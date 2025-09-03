@@ -8,7 +8,7 @@ I'm a passionate Electronics and Telecommunication Engineering student with a st
 - 🎓 B.E. in Electronics & Telecommunication from **IET DAVV, Indore**
 - 👯 I'm looking to collaborate on **AI-powered applications and full-stack projects**
 - 💬 Ask me about **React.js, Node.js, AI Integration, and IoT systems**
-- 📫 How to reach me: **hellom2503@gmail.com**
+- 📫 How to reach me: **omrajput642@gmail.com**
 - ⚡ Fun fact: **Co-founded the Robotics Club at my institute and ranked Top 20 in Eyantra National Competition!**
 
 ## 🛠️ Tech Stack
