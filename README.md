@@ -56,7 +56,7 @@ I'm a passionate Electronics and Telecommunication Engineering student with a st
 
 ## 🌟 Featured Projects
 
-### 🏥 [Zeecare - Hospital Management System](https://github.com/om25rajput/zeecare)
+### 🏥 [Zeecare - Hospital Management System](https://github.com/om25rajput/HMS_BACKEND)
 **Live Demo:** (https://linktr.ee/OM_RAJPUT_) | **Tech Stack:** React.js, Spring Boot, MongoDB, Tailwind CSS
 
 A comprehensive hospital management solution featuring patient registration, appointment scheduling, and admin dashboard. Built with clean architecture and deployed using CI/CD principles with GitHub Actions.
@@ -68,8 +68,8 @@ A comprehensive hospital management solution featuring patient registration, app
 - Responsive design with Tailwind CSS
 - CI/CD deployment pipeline
 
-### 🤖 [Customer Support Chatbot - AI Assistant](https://github.com/om25rajput/ai-chatbot)
-**Live Demo:** [ai-support-bot.vercel.app](https://ai-chat-support-bot-v1.vercel.app/) | **Tech Stack:** TypeScript, React.js, LLM, RAG, Serverless
+### 🤖 [Customer Support Chatbot - AI Assistant](https://github.com/om25rajput/ai-Chat-Support-Bot)
+**Live Demo:** [(https://ai-chat-support-bot-v1.vercel.app/)](https://ai-chat-support-bot-v1.vercel.app/) | **Tech Stack:** TypeScript, React.js, LLM, RAG, Serverless
 
 A cost-effective, multi-layered AI chatbot that delivers accurate customer support through FAQ handling, RAG implementation, and LLM integration. Optimized for scalability and cost efficiency.
 
@@ -100,7 +100,7 @@ Key Features:
 📊 Analytics Dashboard: View trends and earthquake distribution statistics.
 
 
-### 💰 [CryptoPro - Cryptocurrency Tracking App](https://github.com/om25rajput/cryptopro)
+### 💰 CryptoPro - Cryptocurrency Tracking App
 **Live Demo:** (https://cryptopro-by-sd.netlify.app/) | **Tech Stack:** React.js, JavaScript, REST APIs, CSS
 
 A real-time cryptocurrency tracking application with interactive charts, price alerts, and comprehensive market data visualization.
