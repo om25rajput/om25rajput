@@ -69,7 +69,7 @@ A comprehensive hospital management solution featuring patient registration, app
 - CI/CD deployment pipeline
 
 ### 🤖 [Customer Support Chatbot - AI Assistant](https://github.com/om25rajput/ai-chatbot)
-**Live Demo:** [ai-support-bot.vercel.app](https://ai-support-bot.vercel.app) | **Tech Stack:** TypeScript, React.js, LLM, RAG, Serverless
+**Live Demo:** [ai-support-bot.vercel.app](https://ai-chat-support-bot-v1.vercel.app/) | **Tech Stack:** TypeScript, React.js, LLM, RAG, Serverless
 
 A cost-effective, multi-layered AI chatbot that delivers accurate customer support through FAQ handling, RAG implementation, and LLM integration. Optimized for scalability and cost efficiency.
 
