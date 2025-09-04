@@ -151,15 +151,6 @@ Key Features:
 ## 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=om25rajput&theme=react-dark&hide_border=true&area=true" width="100%">
 
-## 🎨 All Projects & Demos
-
-| Project | Description | Tech Stack | Live Demo | Repository |
-|---------|-------------|------------|-----------|------------|
-| **[Zeecare Hospital System](https://zeecare-demo.vercel.app)** | Complete hospital management solution | React, Spring Boot, MongoDB | [View Live](https://zeecare-demo.vercel.app) | [GitHub](https://github.com/om25rajput/zeecare) |
-| **[AI Customer Support Bot](https://ai-support-bot.vercel.app)** | Multi-layered AI chatbot for customer support | TypeScript, React, LLM, RAG | [View Live](https://ai-support-bot.vercel.app) | [GitHub](https://github.com/om25rajput/ai-Chat-Support-Bot) |
-| **[CryptoPro Tracker](https://cryptopro-tracker.netlify.app)** | Real-time cryptocurrency tracking app | React.js, REST APIs, CSS | [View Live](https://cryptopro-tracker.netlify.app) | [GitHub](https://github.com/om25rajput/cryptopro) |
-| **[Portfolio Website](https://om-rajput-portfolio.vercel.app)** | Personal portfolio showcasing my work | React.js, Tailwind CSS | [View Live](https://om-rajput-portfolio.vercel.app) | [GitHub](https://github.com/om25rajput/portfolio) |
-
 ## 🎓 Education & Achievements
 
 **Bachelor of Engineering - Electronics & Telecommunication**  
